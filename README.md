@@ -2,7 +2,8 @@
 Import the necessary library
 Read Dataset
 Sanity Check of data
-ExplMissing value Treatments
+Exploratory Data Analysis
+Missing value Treatments
 Outlier Treatments
 Duplicate and garbage value Treatment
 Encoding of data
